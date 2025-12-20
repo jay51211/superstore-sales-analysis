@@ -1,4 +1,4 @@
-**Superstore Sales Analysis 📊**
+**Superstore Sales Analysis**
 
 **Overview**
 This project performs an exploratory data analysis (EDA) on a global superstore dataset using Python.
