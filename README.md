@@ -9,15 +9,21 @@ The analysis focuses on understanding how discounts, shipping modes, and seasona
 **Tools & Technologies**
 
 1.Python
+
 2.Pandas
+
 3.Matplotlib
+
 4.Jupyter Notebook
 
 **Business Questions Addressed**
 
 1.How do discounts impact average sales?
+
 2.Which discount levels negatively affect revenue?
+
 3.Are there seasonal patterns in sales performance?
+
 4.Which shipping modes are most profitable?
 
 **Key Visual Insights**
